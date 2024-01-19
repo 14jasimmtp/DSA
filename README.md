@@ -6,7 +6,7 @@ Welcome to the "Data-Structures-Algorithms" repository! This repository is a com
 
 ## Table of Contents
 
-jj
+
 
 1. **JavaScript**
 
