@@ -8,8 +8,8 @@ func main() {
 	bubbleSort(Array)
 
 	fmt.Print("Sorted array: ")
-	for _, v := range Array {
+	for _, v := range Array{
 		fmt.Print(v, " ")
 	}
-	fmt.Println()
+	fmt.Println("hello")
 }
